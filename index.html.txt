@@ -15,7 +15,7 @@
 <body>
 
 <!-- Navigation -->
-<nav  class="navbar navbar-expand-md navbar-light  sticky-top" style="background-color:#00184c ;"> 
+<nav  class="navbar navbar-expand-md navbar-light  sticky-top" style="background-color:#e94196 ;"> 
 <div  class="container-fluid">
 <a class="navbar-brand" href="#"><!--<img src="logo.png">--><font color="#E0218A">360</font> <font color="white">Beauty</font></a>	
 
